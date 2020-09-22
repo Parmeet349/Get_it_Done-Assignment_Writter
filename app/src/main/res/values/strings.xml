@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Get it Done</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_link">Download Now: http://play.google.com/store/apps/details?id=com.askstudios.assignment</string>
+    <string name="Info">Download Now: http://play.google.com/store/apps/details?id=com.askstudios.assignment</string>
+</resources>
